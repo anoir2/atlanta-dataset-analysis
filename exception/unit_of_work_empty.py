@@ -1,0 +1,2 @@
+class UnitOfWorkEmptyError(Exception):
+    pass

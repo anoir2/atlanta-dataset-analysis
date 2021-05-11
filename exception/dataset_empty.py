@@ -1,0 +1,2 @@
+class DatasetEmptyError(Exception):
+    pass

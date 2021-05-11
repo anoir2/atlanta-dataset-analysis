@@ -1,0 +1,2 @@
+class UnexpectedDatasetFormatError(Exception):
+    pass
